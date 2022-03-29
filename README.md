@@ -1,4 +1,4 @@
-# **Blind**
+# **EyeSite**
 Distance Measurement using open-cv and informing using audio.(for assistance of visually disabled people)
 ## *1. Output :zipper_mouth_face:*
 Video of working of project.
