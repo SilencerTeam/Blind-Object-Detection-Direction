@@ -1,7 +1,7 @@
 # **EyeSite**
 Distance Measurement using Open-CV and informing using audio.(for assistance of visually disabled people)
 ## *1. Output :zipper_mouth_face:*
-Video of working of project.
+Link of the Demo Video of the working project.
 https://youtu.be/-ezycqHttbE
 
 
